@@ -9,11 +9,11 @@ C:\Program Files\Unity\Hub\Editor\2022.3.3f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker0
+AssetImportWorker4
 -projectPath
 C:/Users/G3/Desktop/game/My project
 -logFile
-Logs/AssetImportWorker0.log
+Logs/AssetImportWorker4.log
 -srvPort
 50462
 Successfully changed project path to: C:/Users/G3/Desktop/game/My project
@@ -49,25 +49,7 @@ C:/Users/G3/Desktop/game/My project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [12568] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1583983755 [EditorId] 1583983755 [Version] 1048832 [Id] WindowsEditor(7,G3-Morozini) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8968] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2564904890 [EditorId] 2564904890 [Version] 1048832 [Id] WindowsEditor(7,G3-Morozini) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [12568] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1583983755 [EditorId] 1583983755 [Version] 1048832 [Id] WindowsEditor(7,G3-Morozini) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8968] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2564904890 [EditorId] 2564904890 [Version] 1048832 [Id] WindowsEditor(7,G3-Morozini) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 13994.70 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2022.3.3f1 (7cdc2969a641)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/G3/Desktop/game/My project/Assets
-GfxDevice: creating device client; threaded=0; jobified=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics (ID=0x9a78)
-    Vendor:   Intel
-    VRAM:     1909 MB
-    Driver:   27.20.100.9415
-Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
-Begin MonoManager ReloadAssembly
